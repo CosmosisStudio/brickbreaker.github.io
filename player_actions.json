@@ -1,5 +1,5 @@
 {
-  "target_id": ["id_jucator_1", "id_jucator_2", "id_jucator_3"],
+  "target_id": ["8e7b5b95-d69a-4415-81d4-e515f70f79cb", "1422bccc-af7e-4e3b-a54e-53c6cdf13b8f", "id_jucator_3"],
   "reset_score": false,
   "reset_coins": true,
   "reset_name": true
