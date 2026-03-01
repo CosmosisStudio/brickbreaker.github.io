@@ -1,8 +1,8 @@
 {
-  "target_id": ["ab11057f-44b4-4695-a80c-f570b9fad067", "112e1f59-ee69-4c2f-a4f6-083fd0202762", "d"],
+  "target_id": ["ab11057f-44b4-4695-a80c-f570b9fad067", "", "d"],
   "reset_score": false,
-  "reset_coins": true,
+  "reset_coins": false,
   "reset_name": false,
-  "reset_wave": true,
-  "reset_save_completely": false,
+  "reset_wave": false,
+  "reset_save_completely": true,
 }
