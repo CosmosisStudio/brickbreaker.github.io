@@ -1,5 +1,7 @@
 {
   "target_id": ["", "", "d"],
+  "give_title": true,
+  "take_title": false,
   "reset_score": false,
   "reset_coins": true,
   "reset_name": false,
