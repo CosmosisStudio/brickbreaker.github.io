@@ -1,10 +1,10 @@
 {
-  "target_id": ["", "f476369e-3fd1-4cc5-9a2b-b47f07444ce8", "112e1f59-ee69-4c2f-a4f6-083fd0202762"],
+  "target_id": ["323495b3-40c4-477b-a12f-1d3f51818ebe", "f476369e-3fd1-4cc5-9a2b-b47f07444ce8", "112e1f59-ee69-4c2f-a4f6-083fd0202762",""],
   "give_title": true,
   "take_title": false,
   "reset_score": false,
-  "reset_coins": true,
+  "reset_coins": false,
   "reset_name": false,
-  "reset_wave": true,
+  "reset_wave": false,
   "reset_save_completely": false,
 }
