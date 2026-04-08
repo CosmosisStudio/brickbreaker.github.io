@@ -1,4 +1,10 @@
 {
     "latest_version": "2.6.6",
-    "is_bug": false
+    "is_bug": false,
+    "announcement": {
+        "active": true,
+        "title": "ULTRA UPDATE SOON!",
+        "text": "Get ready for the New Year event. New skins and rank resets are coming next week!",
+        "color": "cyan"
+    }
 }
