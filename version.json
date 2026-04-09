@@ -1,6 +1,6 @@
 {
-    "latest_version": "2.7.5",
-    "is_bug": true,
+    "latest_version": "2.7.6",
+    "is_bug": false,
     "announcement": {
         "active": true,
         "title": "BETA VERSION",
