@@ -4,7 +4,7 @@
     "announcement": {
         "active": true,
         "title": "UPDATE IN:",
-        "text": "Next update is coming tonight!\nThank you for playing!",
+        "text": "Next update is coming tonight!\nThank you for playing!\n\nDO NOT EQUIP SKINS THAT SAY SOON!IT WILL CRASH THE GAME",
         "countdown": "1776628800"
     }
 }
