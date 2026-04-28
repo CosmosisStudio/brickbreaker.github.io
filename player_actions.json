@@ -1,7 +1,7 @@
 {
-  "target_id": [""],
-  "give_title": false,
-  "take_title": true,
+  "target_id": ["f8685130-1906-4361-bbdc-3c3bdfb434e0"],
+  "give_title": true,
+  "take_title": false,
   "reset_score": false,
   "reset_coins": false,
   "reset_name": false,
