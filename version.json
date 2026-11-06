@@ -1,10 +1,10 @@
 {
-    "latest_version": "3.0.6",
+    "latest_version": "3.1.8",
     "is_bug": false,
     "announcement": {
         "active": true,
         "title": "UPDATE IN",
-        "text": "Back in bussines! Next update coming this week not sure when but i may drop more updates until next Sunday.\nFirst update dropped, next is coming Tuesday or Wednesday!(Bug fixing again)",
-        "countdown": "1786294800"
+        "text": "Update tonight,next one coming in a week!\n(a lot of imrovements)",
+        "countdown": "1794765600"
     }
 }
