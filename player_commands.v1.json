@@ -2,12 +2,12 @@
   "version": 1,
   "commands": [
     {
-      "id": "studio-eb3ee893934099da2ab3904766cae467",
+      "id": "studio-a58320db1c3d3df60c7b84a938a2fa1c",
       "target": "60e309f2-7b16-4c85-b33c-79a7a58fa91d",
-      "action": "inbox",
-      "expires_at": 1795203360,
-      "title": "Fuck you",
-      "text": "Hello"
+      "action": "ban",
+      "expires_at": 1795203660,
+      "until": 1794599040,
+      "reason": "Ca vreau si ca pot haha"
     }
   ]
 }
