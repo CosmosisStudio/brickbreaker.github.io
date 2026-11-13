@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "commands": [
+    {
+      "id": "studio-eb3ee893934099da2ab3904766cae467",
+      "target": "60e309f2-7b16-4c85-b33c-79a7a58fa91d",
+      "action": "inbox",
+      "expires_at": 1795203360,
+      "title": "Fuck you",
+      "text": "Hello"
+    }
+  ]
+}
